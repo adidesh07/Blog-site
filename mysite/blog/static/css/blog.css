@@ -1,0 +1,48 @@
+.techfont{
+    font-family:'Black Ops One';
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+h1{
+    color: orange;
+}
+
+
+.bigbrand{
+    font-size: 1.5em;
+}
+
+.centerstage{
+  text-align:center;
+  margin: auto;
+  width: 100%;
+  padding: 10px;
+}
+}
+
+.postdate{
+    text-align:center;
+}
+
+.posttitle{
+    font-family:'Acme';
+    font-size: 4em;
+    text-align:center
+}
+
+.btn-comment{
+    position: absolute;
+    right: 500px;
+}
+
+.comment{
+    font-family:'News Cycle';
+    font-size: 1.5em;
+}
+
+.postcontent{
+    font-family:'News Cycle';
+    font-size: 1.5em;
+    background: white;
+}
